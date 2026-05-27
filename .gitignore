@@ -28,3 +28,19 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/week07/client/ChatClient.java
+/src/week07/client/ClientConfig.java
+/src/week07/client/ClientConnection.java
+/src/week07/client/ClientMain.java
+/src/week07/client/ServerMessageListener.java
+/src/week07/client/SocketClientConnection.java
+/src/week07/common/Protocol.java
+/src/week07/server/ChatServer.java
+/src/week07/server/ClientHandler.java
+/src/week07/server/ClientRegistry.java
+/src/week07/server/ClientRepository.java
+/src/week07/server/ClientSender.java
+/src/week07/server/MessageBroadcaster.java
+/src/week07/server/ServerConfig.java
+/src/week07/server/ServerMain.java
+/src/week07/README_HE.md
